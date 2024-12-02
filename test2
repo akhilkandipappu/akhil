@@ -1,0 +1,11 @@
+The project focuses on validating and testing Samsung SSDs (PM893, PM897, 990 Pro, PM1653) across different server environments 
+to ensure performance, reliability, and compatibility and  performing firmware updates, conducting performance benchmarking by measuring 
+IOPS, latency, and throughput under various workloads. and also tests the ssd features like over-provisioning, secure erase, data migration, 
+and power-loss protection and creating a raid groups on that drives.
+
+
+
+The project focuses on validating and testing the Stonefly XD-series storage systems, ensuring reliability, compatibility, 
+and upgrading firmware for components such as IOMs, BMC, BIOS, and CPLD, and verifying BMC features using IPMI and Redfish. 
+and check the compatibility of SAS, SATA, and NVMe drives from different vendors, and creating a raid group and LUN and mapping the LUN
+masking the LUN and adding the targets.
