@@ -1,3 +1,6 @@
 for i in range(10):
     if i % 2 ==0:
         print(i)
+
+print("printing even number")
+print("printing odd number")
