@@ -1,2 +1,6 @@
 for i in range(1,10):
+<<<<<<< HEAD
     print(i)
+=======
+This is a range program
+>>>>>>> branch2
